@@ -20,7 +20,7 @@ Apaixonado por tencologia com ênfase em análises e automações🤖.
 
 Graduando bachalerado em Ciência da Computação🖥️.
 
-Projetos realizados em Python,HMTL, CSS, JAVASCRIPT👨🏼‍💻.
+Projetos realizados em Python,HTML, CSS, JAVASCRIPT👨🏼‍💻.
 
 
 
