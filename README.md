@@ -16,7 +16,7 @@
 
 ### 🚀 Sobre mim
 
-Estudante do 5º período de Ciência da Computação na UNIFG, apaixonado por tecnologia, dados, inteligência artificial e desenvolvimento de software.
+Estudante do 6º período de Ciência da Computação na UNIFG, apaixonado por tecnologia, dados, inteligência artificial e desenvolvimento de software.
 
 Minha jornada na tecnologia começou através da programação e rapidamente evoluiu para o universo de dados. Desde então, venho desenvolvendo projetos que envolvem coleta, tratamento, análise e visualização de dados, além da construção de APIs e aplicações web escaláveis. 
 
